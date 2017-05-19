@@ -35,6 +35,7 @@
   "platforms": {
     "ios": "7.1",
     "osx": "10.9",
+    "tvos": "9.0",
     "watchos": "2.0"
   },
   "requires_arc": false
