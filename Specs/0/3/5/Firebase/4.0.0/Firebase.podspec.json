@@ -55,15 +55,6 @@
         "Firebase/Core": [
 
         ],
-        "Google-Mobile-Ads-SDK": "7.20.0"
-      },
-      "name": "AdMob"
-    },
-    {
-      "dependencies": {
-        "Firebase/Core": [
-
-        ],
         "FirebaseAuth": "4.0.0"
       },
       "name": "Auth"
