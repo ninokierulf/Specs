@@ -15,6 +15,7 @@
   "description": "A collection of source from different Google projects that may be of use\nto developers working on iOS or OS X projects.",
   "platforms": {
     "osx": "10.6",
+    "tvos": "9.0",
     "ios": "5.0"
   },
   "requires_arc": false,
