@@ -18,7 +18,8 @@
   },
   "name": "FirebaseRemoteConfig",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos": "9.0"
   },
   "preserve_paths": [
     "README.md",
