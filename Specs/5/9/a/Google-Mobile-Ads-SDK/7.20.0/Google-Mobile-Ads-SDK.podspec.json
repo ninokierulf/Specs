@@ -24,7 +24,8 @@
   },
   "name": "Google-Mobile-Ads-SDK",
   "platforms": {
-    "ios": "6.0"
+    "ios": "6.0",
+    "tvos": "9.0"
   },
   "preserve_paths": [
     "README.txt"
