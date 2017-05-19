@@ -21,7 +21,8 @@
   },
   "name": "FirebaseAnalytics",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos": "9.0"
   },
   "source": {
     "http": "https://dl.google.com/dl/cpdc/a198c89ede1ab584/FirebaseAnalytics-4.0.0.tar.gz"
