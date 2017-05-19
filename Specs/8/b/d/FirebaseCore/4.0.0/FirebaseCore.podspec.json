@@ -14,7 +14,8 @@
   },
   "name": "FirebaseCore",
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "tvos": "9.0"
   },
   "source": {
     "http": "https://dl.google.com/dl/cpdc/72613365d5d97a99/FirebaseCore-4.0.0.tar.gz"
